@@ -12,4 +12,5 @@ Do changes in code
 Build docker image and push to docker hub
 Pull the latest version of image from docker hub
 Run latest image on server.
+
 # commands
