@@ -1,4 +1,6 @@
-# candy-store 
+# Candy Store App 
+This is only fronted application
+
 Below Steps to follow to deploy application on docker container
 
 Create image of your project
