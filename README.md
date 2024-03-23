@@ -1,4 +1,4 @@
-# candy-store
+# candy-store 
 Below Steps to follow to deploy application on docker container
 
 Create image of your project
